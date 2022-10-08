@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m computer science student
+- 🌱 I’m currently learning machine learning and python
+- 👯 I’m looking to collaborate on some good first issues
+- 💬 Ask me about web Development
